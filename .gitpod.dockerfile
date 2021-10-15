@@ -3,7 +3,7 @@
 #
 
 # Fetch Ubuntu Latest
-FROM gitpod/workspace-full:latest
+FROM ubuntu:20.04
 
 # Root
 USER root
